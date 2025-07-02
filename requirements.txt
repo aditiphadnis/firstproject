@@ -1,0 +1,16 @@
+mediapipe
+opencv-python
+tensorflow
+vpython
+pyttsx3
+SpeechRecognition
+adk
+fastapi
+cv2
+opencv-python
+opencv-contrib-python
+mediapipe
+kagglehub
+pandas
+tensorflow
+tensorflow-macos
